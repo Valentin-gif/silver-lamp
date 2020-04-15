@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://bit.ly/epg-ro"
+#EXTINF:0, tvg-id="" tvg-logo="https://gov.ro/fisiere/covid.jpg" tvg-name="Corona Virus Info"  group-title="Generale",Corona Virus Info
+http://88.198.65.79:25461/live/ottplayer/bP6OTjdW3m/1.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" tvg-name="TVR 1"  group-title="Generale",TVR 1
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" tvg-name="TVR 1 HD"  group-title="Generale",TVR 1 HD
