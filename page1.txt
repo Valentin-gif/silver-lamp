@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://bit.ly/epg-ro"
-#EXTINF:0, tvg-id="" tvg-logo=" tvg-name="Test"  group-title="Generale",Test2
-https://srv-file9.gofile.io/download/yZ0082/1796171658.mp4
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" tvg-name="TVR 1"  group-title="Generale",TVR 1
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" tvg-name="TVR 1 HD"  group-title="Generale",TVR 1 HD
@@ -10,11 +8,11 @@ http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" tvg-name="PRO TV"  group-title="Generale",Pro TV
 http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33762.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="PRO TV HD"  group-title="Generale",Pro TV HD
-http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33761.m3u8
+http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33760.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33765.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
-http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33764.m3u8
+http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33763.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33772.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
@@ -42,7 +40,7 @@ http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33767.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2016/11/28/antena-1-hd-si-antena-3-hd-de-astazi-in-casele-dumneavoastra-419141.jpg" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
 http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33766.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
+http://zeroip.tv:8008/live/vernica/vernica/34523.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit.ro"  group-title="Stiri",Profit TV
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e4c0a7f9e86e9aa9a55e14c3562cb35f.png" tvg-name="Agro TV"  group-title="Stiri",Agro TV
@@ -52,19 +50,19 @@ http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/56139.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport1
 http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33798.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
-http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33797.m3u8
+http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33796.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
-http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33800.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
 http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33799.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
+http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/334069.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
-http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33802.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
 http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33801.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
+http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/34071.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
-http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33804.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
 http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33803.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
+http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/34072.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1
 http://zeroip.tv:8008/live/hodor_alexandra/Alin2008/33805.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
