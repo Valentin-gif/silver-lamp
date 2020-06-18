@@ -54,7 +54,7 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33796.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33799.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
-http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/334069.m3u8
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/34069.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33801.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
