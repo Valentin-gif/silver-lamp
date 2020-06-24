@@ -280,13 +280,13 @@ http://iptvrestream.online:88/live/testme/testme/2204.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://idatv.ro/wp-content/uploads/2018/04/IDA-tv-logo-min.jpg" tvg-name="IDA TV"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
-http://zeroip.tv:8008/live/alle/alle/33769.m3u8
+http://open.ddns.net:25461/laur/laur/9052
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars HD
-http://zeroip.tv:8008/live/alle/alle/33768.m3u8
+http://open.ddns.net:25461/laur/laur/8972
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
-http://zeroip.tv:8008/live/alle/alle/33776.m3u8
+http://open.ddns.net:25461/laur/laur/9078
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
-http://zeroip.tv:8008/live/alle/alle/33776.m3u8
+http://open.ddns.net:25461/laur/laur/8989
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS.png" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
@@ -304,27 +304,29 @@ http://78.109.108.62:2001/protv
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c05054b76b74ce6692c6bfe735c734aa.png" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
-http://zeroip.tv:8008/live/alle/alle/33864.m3u8
+http://open.ddns.net:25461/laur/laur/9160
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6bee7677af2813c27e06499b0ac63cce.png" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
-http://zeroip.tv:8008/live/alle/alle/33862.m3u8
+http://open.ddns.net:25461/laur/laur/9165
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1bcfb810cee704aa1a79058b194303d.png" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
-http://zeroip.tv:8008/live/alle/alle/33861.m3u8
+http://open.ddns.net:25461/laur/laur/9166
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7085e6c3f229860380df2e1bea83c4a.png" tvg-name="Minimax"  group-title="Desene",Minimax
-http://zeroip.tv:8008/live/alle/alle/33863.m3u8
+http://open.ddns.net:25461/laur/laur/9167
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang
-http://zeroip.tv:8008/live/alle/alle/33865.m3u8
+http://open.ddns.net:25461/laur/laur/9161
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9290990e051fb007778dcf2101fc24fe.png" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
-http://zeroip.tv:8008/live/alle/alle/33904.m3u8
+http://open.ddns.net:25461/laur/laur/14441
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f19b88e6cb8cb067565bb3880b2fb3e1.png" tvg-name="Nick. Jr"  group-title="Desene",Nickelodeon
-http://zeroip.tv:8008/live/alle/alle/36719.m3u8
+http://open.ddns.net:25461/laur/laur/9162
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/913c4858c66af34fc5575fcb46f3fecb.png" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
-http://zeroip.tv:8008/live/alle/alle/33860.m3u8
+http://open.ddns.net:25461/laur/laur/9163
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c5a9a9b092e065b4df87d3943593685.png" tvg-name="NickToons"  group-title="Desene",NickToons
-http://zeroip.tv:8008/live/alle/alle/33866.m3u8
+http://open.ddns.net:25461/laur/laur/9164
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
-http://zeroip.tv:8008/live/alle/alle/38428.m3u8
+http://open.ddns.net:25461/laur/laur/9169
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="Gurinel TV"  group-title="Desene",Gurinel TV
+http://open.ddns.net:25461/laur/laur/9170
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
-http://zeroip.tv:8008/live/alle/alle/33868.m3u8
+http://open.ddns.net:25461/laur/laur/9168
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
 http://zeroip.tv:8008/live/alle/alle/33908.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
