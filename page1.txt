@@ -94,7 +94,7 @@ http://open.ddns.net:25461/laur/laur/9104
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport
-http://open.ddns.net:25461/laur/laur/9003
+http://open.ddns.net:25461/laur/laur/9105
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport HD
 http://open.ddns.net:25461/laur/laur/9003
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="LOOK SPORT 2"  group-title="Sport",Look Sport 2
@@ -107,6 +107,34 @@ http://open.ddns.net:25461/laur/laur/9106
 http://open.ddns.net:25461/laur/laur/9002
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
 http://open.ddns.net:25461/laur/laur/9109
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Premiere
+http://open.ddns.net:25461/laur/laur/13603
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Bollywood
+http://open.ddns.net:25461/laur/laur/17953
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Twist Action
+http://open.ddns.net:25461/laur/laur/13618
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Providerie",Open TV Reborn Action
+http://open.ddns.net:25461/laur/laur/13619
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Strong Action
+http://open.ddns.net:25461/laur/laur/13612
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Reloaded Action
+http://open.ddns.net:25461/laur/laur/13616
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Comedy
+http://open.ddns.net:25461/laur/laur/11197
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Comedie
+http://open.ddns.net:25461/laur/laur/13621
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Aventura
+http://open.ddns.net:25461/laur/laur/11199
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Twist Aventura
+http://open.ddns.net:25461/laur/laur/13622
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Reborn Aventura
+http://open.ddns.net:25461/laur/laur/13623
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Thriller
+http://open.ddns.net:25461/laur/laur/11196
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Twist Thriller
+http://open.ddns.net:25461/laur/laur/13620
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Reloaded Thriller
+http://open.ddns.net:25461/laur/laur/13625
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
 http://open.ddns.net:25461/laur/laur/9067
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
@@ -426,7 +454,7 @@ https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7cf37d44b1282b26cf4331c95004f67.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
-http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9347.m3u8
+http://open.ddns.net:25461/laur/laur/9136
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/49734efbe60a4e666a1b0803e757e82d.png" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://en.kingofsat.net/jpg/alfa-omega.jpg" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
