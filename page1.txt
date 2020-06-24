@@ -113,7 +113,7 @@ http://open.ddns.net:25461/laur/laur/13603
 http://open.ddns.net:25461/laur/laur/17953
 #EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Twist Action
 http://open.ddns.net:25461/laur/laur/13618
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Providerie",Open TV Reborn Action
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Reborn Action
 http://open.ddns.net:25461/laur/laur/13619
 #EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Strong Action
 http://open.ddns.net:25461/laur/laur/13612
