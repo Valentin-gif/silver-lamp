@@ -206,11 +206,11 @@ http://open.ddns.net:25461/laur/laur/9007
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
 http://open.ddns.net:25461/laur/laur/9111
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
-http://open.ddns.net:25461/laur/laur/9111
+http://iptvrestream.online:88/live/testme/testme/2213.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID Investigation Discovery"  group-title="Wild",Discovery ID
 http://open.ddns.net:25461/laur/laur/9124
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="ID Investigation Discovery HD"  group-title="Wild",Discovery ID HD
-http://open.ddns.net:25461/laur/laur/9124
+http://iptvrestream.online:88/live/testme/testme/4967.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra
 http://open.ddns.net:25461/laur/laur/9110
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra HD
@@ -222,53 +222,61 @@ http://open.ddns.net:25461/laur/laur/9122
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
 http://open.ddns.net:25461/laur/laur/9114
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
-http://zeroip.tv:8008/live/alle/alle/33899.m3u8
+http://iptvrestream.online:88/live/testme/testme/2216.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
-http://zeroip.tv:8008/live/alle/alle/33902.m3u8
+http://open.ddns.net:25461/laur/laur/9113
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life HD"  group-title="Wild",Digi Life HD
-http://zeroip.tv:8008/live/alle/alle/33901.m3u8
+http://iptvrestream.online:88/live/testme/testme/2227.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
-http://zeroip.tv:8008/live/alle/alle/33898.m3u8
+http://open.ddns.net:25461/laur/laur/13583
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World HD"  group-title="Wild",Digi Animal World HD
-http://zeroip.tv:8008/live/alle/alle/33897.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0a1d990896e36d9c5611fad3b2c97ea0.png" tvg-name="BBC Earth"  group-title="Wild",BBC Earth
-http://zeroip.tv:8008/live/alle/alle/33892.m3u8
+http://iptvrestream.online:88/live/testme/testme/2228.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/77250cbd467758c8299b4b5840e9c044.png" tvg-name="BBC Earth"  group-title="Wild",BBC Earth HD
+http://open.ddns.net:25461/laur/laur/9017
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9078af9cb17adf31976b43b476476a5.png" tvg-name="DocuBox HD"  group-title="Wild",DocuBox HD
 http://217.115.112.137:8123/play/a02y/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
-http://zeroip.tv:8008/live/alle/alle/33894.m3u8
+http://open.ddns.net:25461/laur/laur/14439
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
-http://zeroip.tv:8008/live/alle/alle/33873.m3u8
+http://open.ddns.net:25461/laur/laur/9127
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="The Fishing &amp; Hunting Channel"  group-title="Wild",Fishing&Hunting
-http://zeroip.tv:8008/live/alle/alle/33874.m3u8
+http://open.ddns.net:25461/laur/laur/9123
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
-http://zeroip.tv:8008/live/alle/alle/33877.m3u8
+http://iptvrestream.online:88/live/testme/testme/2266.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment HD"  group-title="Wild",E! Entertainment HD
-http://zeroip.tv:8008/live/alle/alle/33876.m3u8
+http://open.ddns.net:25461/laur/laur/9016
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
-http://zeroip.tv:8008/live/alle/alle/33889.m3u8
+http://open.ddns.net:25461/laur/laur/9018
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca81b1c4f112e1e48756c072ecd03692.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel
+http://open.ddns.net:25461/laur/laur/9129
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ddbbdd621053ea42ff51d433e4bfa0a6.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel HD
-http://zeroip.tv:8008/live/alle/alle/33887.m3u8
+http://iptvrestream.online:88/live/testme/testme/2206.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/017a544acb713ac3b4c46402c94a07fc.png" tvg-name="TLC"  group-title="Wild",TLC
-http://zeroip.tv:8008/live/alle/alle/33891.m3u8
+http://open.ddns.net:25461/laur/laur/9120
 #EXTINF:0, tvg-id="" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" tvg-name="VP HD"  group-title="Wild",VP HD
 http://89.38.8.130:39437/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5382b51ca47c88d283e818ad2d1e3aca.png" tvg-name="Food Network"  group-title="Wild",Food Netwoork
-http://zeroip.tv:8008/live/alle/alle/38426.m3u8
+http://open.ddns.net:25461/laur/laur/9128
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f764e7fd41d145baf85a911201a35b0b.png" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
-http://212.8.252.59:88/live/puiu/puiu/2223.m3u8
+http://open.ddns.net:25461/laur/laur/9126
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3cd15f8f2940aff879df34df4e5c2cd1.png" tvg-name="History"  group-title="Wild",History
-http://zeroip.tv:8008/live/alle/alle/33895.m3u8
+http://iptvrestream.online:88/live/testme/testme/2258.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/50d4859f871c253cdd38796675a47bb3.png" tvg-name="History HD"  group-title="Wild",History HD
-http://zeroip.tv:8008/live/alle/alle/33870.m3u8
+http://open.ddns.net:25461/laur/laur/9015
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/cinethronix.png" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
-http://zeroip.tv:8008/live/alle/alle/34092.m3u8
+http://open.ddns.net:25461/laur/laur/9095
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e2c2b3343e7f4a897741a19505ba3925.png" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
-http://zeroip.tv:8008/live/alle/alle/33869.m3u8
+http://open.ddns.net:25461/laur/laur/9119
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8507a9929937bf09f30a4c29fc744d35.png" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature HD
+http://open.ddns.net:25461/laur/laur/9013
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86f51d924c473a1ec52e292e98680b1a.png" tvg-name="Viasat History"  group-title="Wild",Viasat History
-http://zeroip.tv:8008/live/alle/alle/33871.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee33374740fbb7bc5d8927997a7c930d.png" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
-http://zeroip.tv:8008/live/alle/alle/33872.m3u8
+http://open.ddns.net:25461/laur/laur/9118
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c9bee7e6c1235595aa7c302972ed1a0d.png" tvg-name="Viasat History"  group-title="Wild",Viasat History HD
+http://open.ddns.net:25461/laur/laur/9014
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee33374740fbb7bc5d8927997a7c930d.png" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explore
+http://open.ddns.net:25461/laur/laur/9117
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5f2bc51bf557809e17a28fb553cbe27f.png" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explore HD
+http://iptvrestream.online:88/live/testme/testme/2204.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://idatv.ro/wp-content/uploads/2018/04/IDA-tv-logo-min.jpg" tvg-name="IDA TV"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
