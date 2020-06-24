@@ -2,27 +2,27 @@
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" tvg-name="TVR 1"  group-title="Generale",TVR 1
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" tvg-name="TVR 1 HD"  group-title="Generale",TVR 1 HD
-http://185.39.10.39:8080/Biko/vxkfQTVqUG/74112.m3u8
+http://iptvrestream.online:88/live/testme/testme/2166.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/c6d859baea548cc7e8ca08e876d0322e.png" tvg-name="TVR 2"  group-title="Generale",TVR 2
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" tvg-name="PRO TV"  group-title="Generale",Pro TV
-http://185.39.10.39:8080/Biko/vxkfQTVqUG/812.m3u8
+http://iptvrestream.online:88/live/testme/testme/8718.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="PRO TV HD"  group-title="Generale",Pro TV HD
-http://185.39.10.39:8080/Biko/vxkfQTVqUG/74117.m3u8
+http://iptvrestream.online:88/live/testme/testme/7463.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
-http://zeroip.tv:8008/live/alle/alle/33765.m3u8
+http://iptvrestream.online:88/live/testme/testme/8719.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
-http://zeroip.tv:8008/live/alle/alle/33763.m3u8
+http://iptvrestream.online:88/live/testme/testme/4890.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
-http://zeroip.tv:8008/live/alle/alle/33772.m3u8
+http://iptvrestream.online:88/live/testme/testme/8732.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
-http://zeroip.tv:8008/live/alle/alle/33771.m3u8
+http://iptvrestream.online:88/live/testme/testme/6633.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
-http://zeroip.tv:8008/live/alle/alle/33785.m3u8
+http://iptvrestream.online:88/live/testme/testme/2174.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
-http://zeroip.tv:8008/live/alle/alle/33787.m3u8
+http://iptvrestream.online:88/live/testme/testme/2241.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
-http://zeroip.tv:8008/live/alle/alle/33782.m3u8
+http://iptvrestream.online:88/live/testme/testme/2172.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 TV"  group-title="Generale",B1 Tv
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Pro_TV_News_logo_2017.png/revision/latest?cb=20171005155753" tvg-name="ProTV News"  group-title="Generale",ProTV News
@@ -30,23 +30,23 @@ http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/008c80e08a5bfd5a7521a8b6836fd99d.png" tvg-name="Pro TV"  group-title="Generale",Pro TV Chisinau HD
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
-http://zeroip.tv:8008/live/alle/alle/33783.m3u8
+http://iptvrestream.online:88/live/testme/testme/2165.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea plus"  group-title="Stiri",Realitatea Plus
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="România TV"  group-title="Stiri",Romania TV
-http://zeroip.tv:8008/live/alle/alle/33779.m3u8
+http://iptvrestream.online:88/live/testme/testme/2171.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/antena-3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
-http://zeroip.tv:8008/live/alle/alle/33767.m3u8
+http://iptvrestream.online:88/live/testme/testme/8720.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2016/11/28/antena-1-hd-si-antena-3-hd-de-astazi-in-casele-dumneavoastra-419141.jpg" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
-http://zeroip.tv:8008/live/alle/alle/33766.m3u8
+http://iptvrestream.online:88/live/testme/testme/2153.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
-http://zeroip.tv:8008/live/vernica/vernica/34523.m3u8
+http://iptvrestream.online:88/live/testme/testme/2414.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit.ro"  group-title="Stiri",Profit TV
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e4c0a7f9e86e9aa9a55e14c3562cb35f.png" tvg-name="Agro TV"  group-title="Stiri",Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a98d664fb0f2909992d398d5c843e468.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
-http://zeroip.tv:8008/live/alle/alle/56139.m3u8
+http://iptvrestream.online:88/live/testme/testme/2390.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport1
 http://zeroip.tv:8008/live/alle/alle/33798.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
