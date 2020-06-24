@@ -328,19 +328,25 @@ http://open.ddns.net:25461/laur/laur/9170
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
 http://open.ddns.net:25461/laur/laur/9168
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
-http://zeroip.tv:8008/live/alle/alle/33908.m3u8
+http://open.ddns.net:25461/laur/laur/9142
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
-http://zeroip.tv:8008/live/alle/alle/33907.m3u8
+http://open.ddns.net:25461/laur/laur/9022
+#EXTINF:0, tvg-id="" tvg-logo="https://radiozu.ro/img/logo-zu.png" tvg-name="Radio ZU TV"  group-title="Muzica",Radio ZU TV
+http://open.ddns.net:25461/laur/laur/9023
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca0e1766b1b8e6f4c78419eeb24ef5cb.png" tvg-name="U TV HD"  group-title="Muzica",U Tv
-http://zeroip.tv:8008/live/alle/alle/33910.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/88eaac40b27c1b47df9a3f7b7d71e3e3.png" tvg-name="MTV"  group-title="Muzica",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+http://open.ddns.net:25461/laur/laur/9139
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fd6416a1afe3936f70c468f444bd9353.png" tvg-name="MTV Romania"  group-title="Muzica",MTV Romania
+http://open.ddns.net:25461/laur/laur/9143
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/96ba24a23dc3d5bd1c00553df6c6560a.png" tvg-name="MTV Dance"  group-title="Muzica",MTV Dance
+http://open.ddns.net:25461/laur/laur/9144
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dfbb5449cf9d4a78e9b1fe3fda609614.png" tvg-name="MTV Hits"  group-title="Muzica",MTV Hits
+http://open.ddns.net:25461/laur/laur/9145
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4687cfb021a02cebf31a249689ecc60e.png" tvg-name="MTV Rocks"  group-title="Muzica",MTV Rocks
-http://zeroip.tv:8008/live/alle/alle/36472.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/025fef3f53d612aee7f64a663fcdda9b.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
-http://zeroip.tv:8008/live/alle/alle/33908.m3u8
+http://open.ddns.net:25461/laur/laur/9146
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/025fef3f53d612aee7f64a663fcdda9b.png" tvg-name=" H!T Music Channel"  group-title="Muzica",H!T Music Channel
+http://open.ddns.net:25461/laur/laur/9141
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/45de33b13919a82e82614c160f25ac43.png" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd50a24b2d4ed40207916b9a32e03512.png" tvg-name="Mooz Dance"  group-title="Muzica",Mooz Dance
@@ -356,23 +362,21 @@ http://186.155.200.118:1935/live/telemusica_web/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://melodychannel.tv/images/logos.png" tvg-name="Melody Channel"  group-title="Muzica",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/def6e6a0f57052cc936abe5f49207b85.png" tvg-name="Dream TV"  group-title="Muzica",Dream TV
-https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+http://open.ddns.net:25461/laur/laur/17238
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/543f2aceedf95f8ab5c9dc273eae5b25.png" tvg-name="Rapsodia TV"  group-title="Muzica",Rapsodia TV
 rtmp://rapsodia1.arya.ro/live/rapsodiatv1
-#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/diaspora-tv.png" tvg-name="Diaspora TV"  group-title="Muzica",Diaspora TV
-http://ch.iptvmate.net/22c91b242794817fc5830052c8ef9315.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/diaspora-tv.png" tvg-name="Diaspora TV"  group-title="Muzica",Diaspora TV-RO Channel
+http://iptvrestream.online:88/live/testme/testme/5887.ts
 #EXTINF:0, tvg-id="raz71" tvg-logo="https://iptv.live/images/logo/channel/smalls/cb23b5210a00cf3cc6d0576c7bc76417.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
 http://78.109.108.62:6010/favorit
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Etno"  group-title="Muzica",Etno
-http://zeroip.tv:8008/live/alle/alle/33914.m3u8
+http://open.ddns.net:25461/laur/laur/9153
 #EXTINF:0, tvg-id="" tvg-logo="https://ibb.co/608cg9P" tvg-name="Party Mix"  group-title="Muzica",Party Mix
-http://188.26.6.77:8800/play/a033/index.m3u8
+http://open.ddns.net:25461/laur/laur/9151
 #EXTINF:0, tvg-id="" tvg-logo="http://www.tezaurtv.ro/wp-content/uploads/2018/09/Tezaur-TV-online.jpg" tvg-name="Tezaur TV"  group-title="Muzica",Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+http://open.ddns.net:25461/laur/laur/1550
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Traditional TV"  group-title="Muzica",Traditional TV
 http://83.103.149.75:8085/udp/239.30.0.9:4000
-#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/gagiu-tv-oltenia.png" tvg-name="Gagiu TV"  group-title="Muzica",Gagiu TV
-rtmp://gtv1.arya.ro:1935/live/gtv1.flv
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3da28374bf5b27f3a2e36d28505871dd.png" tvg-name="Inedit TV HD"  group-title="Muzica",Inedit TV HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://nest-tv.ro/wp-content/uploads/2018/10/nest-tv-live.jpg" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
@@ -380,7 +384,7 @@ http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.somaxtv.com/wp-content/uploads/2015/04/logo_somax_t3.png" tvg-name="Somax TV"  group-title="Muzica",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e037dec17e950ad06d3786e56cbf310e.png" tvg-name="Taraf"  group-title="Muzica",Taraf TV
-http://zeroip.tv:8008/live/alle/alle/33913.m3u8
+http://open.ddns.net:25461/laur/laur/9154
 #EXTINF:0, tvg-id="" tvg-logo="http://www.tvbuzau.ro/wp-content/uploads/2016/07/tv-buzau-logo.png" tvg-name="Buzau TV"  group-title="Locale",Buzau TV
 http://95.77.16.67:8080/
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
@@ -398,7 +402,7 @@ http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tvr-craiova.png" tvg-name="TVR Craiova"  group-title="Locale",TVR Craiova
 https://mn-nl.mncdn.com/tvr_craiova_live/tvr_craiova_live2/playlist.m3u8?
 #EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/bucuresti-tv-mini.jpg" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
-http://zeroip.tv:8008/live/alle/alle/37449.m3u8
+http://open.ddns.net:25461/laur/laur/9062
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/actualitatea-tv.png" tvg-name="Actualitatea TV"  group-title="Locale",Actualitatea TV
 http://webmobile.xdev.ro:81/tv4/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/40cc1685b089b83039c635980cc4ec50.png" tvg-name="Telestar TV"  group-title="Locale",Telestar TV
@@ -421,30 +425,6 @@ http://46.4.14.12:9999/intermedia1/playlist.m3u8
 https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419/
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Super One HD(18+)"  group-title="Erotice",Super One HD(18+)
-http://zeroip.tv:8008/live/alle/alle/34100.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee3a3d059b0289892dd9b6466488c101.png" tvg-name="Exotica(18+)"  group-title="Erotice",Exotica(18+)
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST Shemale(18+)"  group-title="Erotice",AST Shemale(18+)
-https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a5f94ce3c524b30784606815ad330e59.png" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f561aaf6ef0bf14d4208bb46a4ccb3ad.png" tvg-name="Miami TV(18+)"  group-title="Erotice",Miami TV(18+)
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1d557a00a3b02b2848cf3d5a701c741.png" tvg-name="X TV(18+)"  group-title="Erotice",X TV(18+)
-http://188.35.9.11:21141/udp/214h
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7a3dd1b1de6a97b599768aa52df85a7d.png" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
-http://zeroip.tv:8008/live/alle/alle/34098.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c5bc49061e60a98fa6ebc06a0fcd1403.png" tvg-name="Vivid Red TV HD(18+)"  group-title="Erotice",Vivid Red TV HD(18+)
-http://zeroip.tv:8008/live/alle/alle/34160.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfa3e0729768e459dd2edbea24522af1.png" tvg-name="Penthouse Gold(18+)" group-title="Erotice",Penthouse Gold(18+)
-http://zeroip.tv:8008/live/alle/alle/34102.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d9d367f394c5f8f7688b32c1559a7d76.png" tvg-name="Redlight HD(18+)"  group-title="Erotice",Redlight HD(18+)
-http://zeroip.tv:8008/live/alle/alle/34160.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Vivid TV HD(18+)"  group-title="Erotice",Vivid TV HD(18+)
-http://188.35.9.11:21051/udp/071l
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7cf37d44b1282b26cf4331c95004f67.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
 http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9347.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/49734efbe60a4e666a1b0803e757e82d.png" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
