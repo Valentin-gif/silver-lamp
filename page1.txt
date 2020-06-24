@@ -50,21 +50,21 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LI
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a98d664fb0f2909992d398d5c843e468.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
 http://open.ddns.net:25461/laur/laur/9134
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport1
-http://zeroip.tv:8008/live/alle/alle/33798.m3u8
+http://open.ddns.net:25461/laur/laur/9096
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
-http://zeroip.tv:8008/live/alle/alle/33796.m3u8
+http://open.ddns.net:25461/laur/laur/8991
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
-http://zeroip.tv:8008/live/alle/alle/33799.m3u8
+http://open.ddns.net:25461/laur/laur/9097
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
-http://zeroip.tv:8008/live/alle/alle/34069.m3u8
+http://open.ddns.net:25461/laur/laur/8992
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
-http://zeroip.tv:8008/live/alle/alle/33801.m3u8
+http://open.ddns.net:25461/laur/laur/9098
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
-http://zeroip.tv:8008/live/alle/alle/34071.m3u8
+http://open.ddns.net:25461/laur/laur/8993
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
-http://zeroip.tv:8008/live/alle/alle/33803.m3u8
+http://open.ddns.net:25461/laur/laur/9099
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
-http://zeroip.tv:8008/live/alle/alle/34072.m3u8
+http://open.ddns.net:25461/laur/laur/8994
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1
 http://zeroip.tv:8008/live/alle/alle/33805.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
