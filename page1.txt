@@ -273,9 +273,9 @@ http://open.ddns.net:25461/laur/laur/9013
 http://open.ddns.net:25461/laur/laur/9118
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c9bee7e6c1235595aa7c302972ed1a0d.png" tvg-name="Viasat History"  group-title="Wild",Viasat History HD
 http://open.ddns.net:25461/laur/laur/9014
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee33374740fbb7bc5d8927997a7c930d.png" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explore
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee33374740fbb7bc5d8927997a7c930d.png" tvg-name="Viasat Explore"  group-title="Wild",Viasat Explore
 http://open.ddns.net:25461/laur/laur/9117
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5f2bc51bf557809e17a28fb553cbe27f.png" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explore HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5f2bc51bf557809e17a28fb553cbe27f.png" tvg-name="Viasat Explore"  group-title="Wild",Viasat Explore HD
 http://iptvrestream.online:88/live/testme/testme/2204.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://idatv.ro/wp-content/uploads/2018/04/IDA-tv-logo-min.jpg" tvg-name="IDA TV"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
