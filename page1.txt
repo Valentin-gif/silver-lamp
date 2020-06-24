@@ -107,6 +107,8 @@ http://open.ddns.net:25461/laur/laur/9106
 http://open.ddns.net:25461/laur/laur/9002
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
 http://open.ddns.net:25461/laur/laur/9109
+#EXTINF:0, tvg-id="" tvg-logo="https://lirp-cdn.multiscreensite.com/ca98cc15/dms3rep/multi/opt/MEGATV-640w.jpg" tvg-name=""  group-title="Filme Provideri",Mega Joke Battle
+http://open.ddns.net:25461/laur/laur/17961
 #EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Premiere
 http://open.ddns.net:25461/laur/laur/13603
 #EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Bollywood
@@ -175,8 +177,80 @@ http://open.ddns.net:25461/laur/laur/17988
 http://open.ddns.net:25461/laur/laur/17992
 #EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Filme 2020
 http://open.ddns.net:25461/laur/laur/14525
-
-
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Trilogy
+http://open.ddns.net:25461/laur/laur/10638
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Filme de colectie
+http://open.ddns.net:25461/laur/laur/10647
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Actiune
+http://open.ddns.net:25461/laur/laur/14514
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Horror
+http://open.ddns.net:25461/laur/laur/10657
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV BoxOffice
+http://open.ddns.net:25461/laur/laur/14519
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Mistery
+http://open.ddns.net:25461/laur/laur/14520
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Western
+http://open.ddns.net:25461/laur/laur/14521
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Arte Martiale
+http://open.ddns.net:25461/laur/laur/14523
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/GMWPfWf/skynet.png" tvg-name=""  group-title="Filme Provideri",Skynet Actiune
+http://open.ddns.net:25461/laur/laur/10655
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/GMWPfWf/skynet.png" tvg-name=""  group-title="Filme Provideri",Skynet Aventura
+http://open.ddns.net:25461/laur/laur/10656
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/GMWPfWf/skynet.png" tvg-name=""  group-title="Filme Provideri",Skynet Arte Martiale
+http://open.ddns.net:25461/laur/laur/10658
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/GMWPfWf/skynet.png" tvg-name=""  group-title="Filme Provideri",Skynet Bollywood
+http://open.ddns.net:25461/laur/laur/10660
+#EXTINF:0, tvg-id="" tvg-logo="https://startv.ro/wp-content/uploads/2017/08/logo.png" tvg-name=""  group-title="Filme Provideri",Star TV Action
+http://open.ddns.net:25461/laur/laur/10642
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv New releases
+http://open.ddns.net:25461/laur/laur/17933
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Movies 2020
+http://open.ddns.net:25461/laur/laur/17934
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action
+http://open.ddns.net:25461/laur/laur/17949
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action Two
+http://open.ddns.net:25461/laur/laur/17950
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action Three
+http://open.ddns.net:25461/laur/laur/17941
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action Four
+http://open.ddns.net:25461/laur/laur/17939
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action Five
+http://open.ddns.net:25461/laur/laur/17940
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Comedy
+http://open.ddns.net:25461/laur/laur/17942
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Comedy Two
+http://open.ddns.net:25461/laur/laur/17943
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Horror
+http://open.ddns.net:25461/laur/laur/17944
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Horror Two
+http://open.ddns.net:25461/laur/laur/17945
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Adventure
+http://open.ddns.net:25461/laur/laur/17946
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Adventure Two
+http://open.ddns.net:25461/laur/laur/17947
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Thriller
+http://open.ddns.net:25461/laur/laur/17948
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Thriller Two
+http://open.ddns.net:25461/laur/laur/17951
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Science Fiction
+http://open.ddns.net:25461/laur/laur/17952
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Thriller
+http://open.ddns.net:25461/laur/laur/16206
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Aventura
+http://open.ddns.net:25461/laur/laur/16207
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Actiune
+http://open.ddns.net:25461/laur/laur/16208
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Comedie
+http://open.ddns.net:25461/laur/laur/16209
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech ScienceFiction
+http://open.ddns.net:25461/laur/laur/16210
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Drama
+http://open.ddns.net:25461/laur/laur/16211
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Crime
+http://open.ddns.net:25461/laur/laur/16212
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Premiere
+http://open.ddns.net:25461/laur/laur/16213
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
 http://open.ddns.net:25461/laur/laur/9067
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
@@ -255,105 +329,105 @@ https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classics"  group-title="Filme",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bizbrasov.ro/wp-content/uploads/2018/10/Digi-4K.jpg?resize=640%2C352" tvg-name="Digi 4K"  group-title="Wild",Digi 4K
+#EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bizbrasov.ro/wp-content/uploads/2018/10/Digi-4K.jpg?resize=640%2C352" tvg-name="Digi 4K"  group-title="Documentare",Digi 4K
 http://open.ddns.net:25461/laur/laur/8979
-#EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia TV"  group-title="Wild",Arcadia World
+#EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia TV"  group-title="Documentare",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Documentare",Animal Planet
 http://open.ddns.net:25461/laur/laur/9112
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Documentare",Animal Planet HD
 http://open.ddns.net:25461/laur/laur/9009
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Documentare",National Geographic
 http://open.ddns.net:25461/laur/laur/9115
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9919ad31897b9a2b7d6ebff2a5e23db.png" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9919ad31897b9a2b7d6ebff2a5e23db.png" tvg-name="National Geographic HD"  group-title="Documentare",National Geographic HD
 http://open.ddns.net:25461/laur/laur/9010
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Wild",Aventuri pescaresti
+#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Documentare",Aventuri pescaresti
 http://open.ddns.net:25461/laur/laur/17916
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Wild",IptvBox Documentare
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Documentare",IptvBox Documentare
 http://open.ddns.net:25461/laur/laur/17985
-
-
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Documentare",Luc TV Documentare
+http://open.ddns.net:25461/laur/laur/17417
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Documentare",Nat Geo Wild
 http://open.ddns.net:25461/laur/laur/9116
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/09f3e55d09d705c6b987fa46c2989d69.png" tvg-name="Nat Geo Wild HD"  group-title="Wild",Nat Geo Wild HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/09f3e55d09d705c6b987fa46c2989d69.png" tvg-name="Nat Geo Wild HD"  group-title="Documentare",Nat Geo Wild HD
 http://open.ddns.net:25461/laur/laur/9011
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Documentare",Discovery Channel
 http://open.ddns.net:25461/laur/laur/9007
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Documentare",Discovery Science
 http://open.ddns.net:25461/laur/laur/9111
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Documentare",Discovery Science HD
 http://iptvrestream.online:88/live/testme/testme/2213.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID Investigation Discovery"  group-title="Wild",Discovery ID
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID Investigation Discovery"  group-title="Documentare",Discovery ID
 http://open.ddns.net:25461/laur/laur/9124
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="ID Investigation Discovery HD"  group-title="Wild",Discovery ID HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="ID Investigation Discovery HD"  group-title="Documentare",Discovery ID HD
 http://iptvrestream.online:88/live/testme/testme/4967.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Documentare",Discovery Turbo Extra
 http://open.ddns.net:25461/laur/laur/9110
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Documentare",Discovery Turbo Extra HD
 http://open.ddns.net:25461/laur/laur/9110
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Wild",Discovery ShowCase HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Documentare",Discovery ShowCase HD
 http://open.ddns.net:25461/laur/laur/9008
-#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Wild",Crime Investigation
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Documentare",Crime Investigation
 http://open.ddns.net:25461/laur/laur/9122
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Documentare",Digi World
 http://open.ddns.net:25461/laur/laur/9114
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Documentare",Digi World HD
 http://iptvrestream.online:88/live/testme/testme/2216.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Documentare",Digi Life
 http://open.ddns.net:25461/laur/laur/9113
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life HD"  group-title="Wild",Digi Life HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life HD"  group-title="Documentare",Digi Life HD
 http://iptvrestream.online:88/live/testme/testme/2227.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World"  group-title="Documentare",Digi Animal World
 http://open.ddns.net:25461/laur/laur/13583
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World HD"  group-title="Wild",Digi Animal World HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World HD"  group-title="Documentare",Digi Animal World HD
 http://iptvrestream.online:88/live/testme/testme/2228.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/77250cbd467758c8299b4b5840e9c044.png" tvg-name="BBC Earth"  group-title="Wild",BBC Earth HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/77250cbd467758c8299b4b5840e9c044.png" tvg-name="BBC Earth"  group-title="Documentare",BBC Earth HD
 http://open.ddns.net:25461/laur/laur/9017
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9078af9cb17adf31976b43b476476a5.png" tvg-name="DocuBox HD"  group-title="Wild",DocuBox HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9078af9cb17adf31976b43b476476a5.png" tvg-name="DocuBox HD"  group-title="Documentare",DocuBox HD
 http://217.115.112.137:8123/play/a02y/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Documentare",CBS Reality
 http://open.ddns.net:25461/laur/laur/14439
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Documentare",Fine Living
 http://open.ddns.net:25461/laur/laur/9127
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="The Fishing &amp; Hunting Channel"  group-title="Wild",Fishing&Hunting
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="The Fishing &amp; Hunting Channel"  group-title="Documentare",Fishing&Hunting
 http://open.ddns.net:25461/laur/laur/9123
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Documentare",E! Entertainment
 http://iptvrestream.online:88/live/testme/testme/2266.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment HD"  group-title="Wild",E! Entertainment HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment HD"  group-title="Documentare",E! Entertainment HD
 http://open.ddns.net:25461/laur/laur/9016
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix"  group-title="Documentare",Travel Mix
 http://open.ddns.net:25461/laur/laur/9018
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca81b1c4f112e1e48756c072ecd03692.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca81b1c4f112e1e48756c072ecd03692.png" tvg-name="Travel Channel"  group-title="Documentare",Travel Channel
 http://open.ddns.net:25461/laur/laur/9129
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ddbbdd621053ea42ff51d433e4bfa0a6.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ddbbdd621053ea42ff51d433e4bfa0a6.png" tvg-name="Travel Channel"  group-title="Documentare",Travel Channel HD
 http://iptvrestream.online:88/live/testme/testme/2206.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/017a544acb713ac3b4c46402c94a07fc.png" tvg-name="TLC"  group-title="Wild",TLC
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/017a544acb713ac3b4c46402c94a07fc.png" tvg-name="TLC"  group-title="Documentare",TLC
 http://open.ddns.net:25461/laur/laur/9120
-#EXTINF:0, tvg-id="" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" tvg-name="VP HD"  group-title="Wild",VP HD
+#EXTINF:0, tvg-id="" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" tvg-name="VP HD"  group-title="Documentare",VP HD
 http://89.38.8.130:39437/
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5382b51ca47c88d283e818ad2d1e3aca.png" tvg-name="Food Network"  group-title="Wild",Food Netwoork
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5382b51ca47c88d283e818ad2d1e3aca.png" tvg-name="Food Network"  group-title="Documentare",Food Netwoork
 http://open.ddns.net:25461/laur/laur/9128
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f764e7fd41d145baf85a911201a35b0b.png" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f764e7fd41d145baf85a911201a35b0b.png" tvg-name="TV Paprika"  group-title="Documentare",TV Paprika
 http://open.ddns.net:25461/laur/laur/9126
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3cd15f8f2940aff879df34df4e5c2cd1.png" tvg-name="History"  group-title="Wild",History
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3cd15f8f2940aff879df34df4e5c2cd1.png" tvg-name="History"  group-title="Documentare",History
 http://iptvrestream.online:88/live/testme/testme/2258.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/50d4859f871c253cdd38796675a47bb3.png" tvg-name="History HD"  group-title="Wild",History HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/50d4859f871c253cdd38796675a47bb3.png" tvg-name="History HD"  group-title="Documentare",History HD
 http://open.ddns.net:25461/laur/laur/9015
-#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/cinethronix.png" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/cinethronix.png" tvg-name="Cinethronix"  group-title="Documentare",Cinethronix
 http://open.ddns.net:25461/laur/laur/9095
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e2c2b3343e7f4a897741a19505ba3925.png" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e2c2b3343e7f4a897741a19505ba3925.png" tvg-name="Viasat Nature"  group-title="Documentare",Viasat Nature
 http://open.ddns.net:25461/laur/laur/9119
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8507a9929937bf09f30a4c29fc744d35.png" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8507a9929937bf09f30a4c29fc744d35.png" tvg-name="Viasat Nature"  group-title="Documentare",Viasat Nature HD
 http://open.ddns.net:25461/laur/laur/9013
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86f51d924c473a1ec52e292e98680b1a.png" tvg-name="Viasat History"  group-title="Wild",Viasat History
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86f51d924c473a1ec52e292e98680b1a.png" tvg-name="Viasat History"  group-title="Documentare",Viasat History
 http://open.ddns.net:25461/laur/laur/9118
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c9bee7e6c1235595aa7c302972ed1a0d.png" tvg-name="Viasat History"  group-title="Wild",Viasat History HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c9bee7e6c1235595aa7c302972ed1a0d.png" tvg-name="Viasat History"  group-title="Documentare",Viasat History HD
 http://open.ddns.net:25461/laur/laur/9014
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee33374740fbb7bc5d8927997a7c930d.png" tvg-name="Viasat Explore"  group-title="Wild",Viasat Explore
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee33374740fbb7bc5d8927997a7c930d.png" tvg-name="Viasat Explore"  group-title="Documentare",Viasat Explore
 http://open.ddns.net:25461/laur/laur/9117
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5f2bc51bf557809e17a28fb553cbe27f.png" tvg-name="Viasat Explore"  group-title="Wild",Viasat Explore HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5f2bc51bf557809e17a28fb553cbe27f.png" tvg-name="Viasat Explore"  group-title="Documentare",Viasat Explore HD
 http://iptvrestream.online:88/live/testme/testme/2204.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://idatv.ro/wp-content/uploads/2018/04/IDA-tv-logo-min.jpg" tvg-name="IDA TV"  group-title="Wild",IDA TV HD
+#EXTINF:0, tvg-id="" tvg-logo="https://idatv.ro/wp-content/uploads/2018/04/IDA-tv-logo-min.jpg" tvg-name="IDA TV"  group-title="Documentare",IDA TV HD
 https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://open.ddns.net:25461/laur/laur/9052
@@ -393,14 +467,28 @@ http://open.ddns.net:25461/laur/laur/13617
 http://open.ddns.net:25461/laur/laur/13855
 #EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Desene",Tom&Jerry
 http://open.ddns.net:25461/laur/laur/14513
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Kids
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Desene",HD Net Kids
 http://open.ddns.net:25461/laur/laur/13394
 #EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Desene",IptvBox Desene Animate
 http://open.ddns.net:25461/laur/laur/17984
 #EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Desene",IptvBox Fun Baby
 http://open.ddns.net:25461/laur/laur/17991
-
-
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Desene",Luc TV Kids Disney
+http://open.ddns.net:25461/laur/laur/10638
+#EXTINF:0, tvg-id="" tvg-logo="https://startv.ro/wp-content/uploads/2017/08/logo.png" tvg-name=""  group-title="Desene",Star TV Desene Animate
+http://open.ddns.net:25461/laur/laur/10652
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Desene",ZokkoTv Kids
+http://open.ddns.net:25461/laur/laur/17936
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Desene",ZokkoTv Kids 2
+http://open.ddns.net:25461/laur/laur/17937
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Desene",ProxTech Kids
+http://open.ddns.net:25461/laur/laur/16205
+#EXTINF:0, tvg-id="" tvg-logo="https://lirp-cdn.multiscreensite.com/ca98cc15/dms3rep/multi/opt/MEGATV-640w.jpg" tvg-name=""  group-title="Desene",Mega Tom&Jerry
+http://open.ddns.net:25461/laur/laur/17959
+#EXTINF:0, tvg-id="" tvg-logo="https://lirp-cdn.multiscreensite.com/ca98cc15/dms3rep/multi/opt/MEGATV-640w.jpg" tvg-name=""  group-title="Desene",Mega Masha si Ursul
+http://open.ddns.net:25461/laur/laur/17958
+#EXTINF:0, tvg-id="" tvg-logo="https://lirp-cdn.multiscreensite.com/ca98cc15/dms3rep/multi/opt/MEGATV-640w.jpg" tvg-name=""  group-title="Desene",Mega Kids
+http://open.ddns.net:25461/laur/laur/17960
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7085e6c3f229860380df2e1bea83c4a.png" tvg-name="Minimax"  group-title="Desene",Minimax
 http://open.ddns.net:25461/laur/laur/9167
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang
@@ -427,6 +515,8 @@ http://open.ddns.net:25461/laur/laur/9022
 http://open.ddns.net:25461/laur/laur/9023
 #EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Muzica",Hituri romanesti
 http://open.ddns.net:25461/laur/laur/13428
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Muzica",Luc TV Top Hits Romania
+http://open.ddns.net:25461/laur/laur/17914
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca0e1766b1b8e6f4c78419eeb24ef5cb.png" tvg-name="U TV HD"  group-title="Muzica",U Tv
@@ -451,6 +541,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LI
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1f4b2520dff344119054260d0459cac6.png" tvg-name="Mooz RO"  group-title="Muzica",Mooz RO
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Muzica",Luc TV Muzica Latino
+http://open.ddns.net:25461/laur/laur/17963
 #EXTINF:0, tvg-id="" tvg-logo="https://www.telemusica.tv/images/logotelemusicahit.png" tvg-name="Tele Musica"  group-title="Muzica",Tele Musica
 http://186.155.200.118:1935/live/telemusica_web/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://melodychannel.tv/images/logos.png" tvg-name="Melody Channel"  group-title="Muzica",Melody Channel
@@ -461,6 +553,8 @@ http://open.ddns.net:25461/laur/laur/17238
 rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/diaspora-tv.png" tvg-name="Diaspora TV"  group-title="Muzica",Diaspora TV-RO Channel
 http://iptvrestream.online:88/live/testme/testme/5887.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Muzica",Luc TV Muzica Populara
+http://open.ddns.net:25461/laur/laur/17909
 #EXTINF:0, tvg-id="raz71" tvg-logo="https://iptv.live/images/logo/channel/smalls/cb23b5210a00cf3cc6d0576c7bc76417.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
 http://78.109.108.62:6010/favorit
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Etno"  group-title="Muzica",Etno
@@ -479,8 +573,10 @@ http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e037dec17e950ad06d3786e56cbf310e.png" tvg-name="Taraf"  group-title="Muzica",Taraf TV
 http://open.ddns.net:25461/laur/laur/9154
-#EXTINF:0, tvg-id="" tvg-logo="https://www.anume.ro/images/logonou.png" tvg-name=""  group-title="Filme Provideri",Anume TV Manele
+#EXTINF:0, tvg-id="" tvg-logo="https://www.anume.ro/images/logonou.png" tvg-name=""  group-title="Muzica",Anume TV Manele
 http://open.ddns.net:25461/laur/laur/16203
+#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Muzica",ZokkoTv Manele
+http://open.ddns.net:25461/laur/laur/17938
 #EXTINF:0, tvg-id="" tvg-logo="http://www.tvbuzau.ro/wp-content/uploads/2016/07/tv-buzau-logo.png" tvg-name="Buzau TV"  group-title="Locale",Buzau TV
 http://95.77.16.67:8080/
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
