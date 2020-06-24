@@ -108,149 +108,75 @@ http://open.ddns.net:25461/laur/laur/9002
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
 http://open.ddns.net:25461/laur/laur/9109
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
-http://zeroip.tv:8008/live/alle/alle/33833.m3u8
+http://open.ddns.net:25461/laur/laur/9067
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
-http://zeroip.tv:8008/live/alle/alle/33832.m3u8
+http://open.ddns.net:25461/laur/laur/8983
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
-http://zeroip.tv:8008/live/alle/alle/33835.m3u8
+http://open.ddns.net:25461/laur/laur/9068
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/12713c6ff264a3ac58c707c7b2a4bbcf.png" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
-http://zeroip.tv:8008/live/alle/alle/33834.m3u8
+http://open.ddns.net:25461/laur/laur/8984
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
-http://zeroip.tv:8008/live/alle/alle/33837.m3u8
+http://open.ddns.net:25461/laur/laur/9069
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
-http://zeroip.tv:8008/live/alle/alle/33836.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Marvel Movies HD"  group-title="Filme",VSV Marvel Movies HD
-http://zeroip.tv:8008/live/alle/alle/51126.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Collection HD"  group-title="Filme",VSV Collection HD
-http://zeroip.tv:8008/live/alle/alle/51125.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Christmas HD"  group-title="Filme",VSV Christmas HD
-http://zeroip.tv:8008/live/alle/alle/38407.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema 4K"  group-title="Filme",VSV Cinema 4K
-http://zeroip.tv:8008/live/alle/alle/38772.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema FHD"  group-title="Filme",VSV Cinema FHD
-http://zeroip.tv:8008/live/alle/alle/38253.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Action HD"  group-title="Filme",VSV Action HD
-http://zeroip.tv:8008/live/alle/alle/38769.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Comedy HD"  group-title="Filme",VSV Comedy HD
-http://zeroip.tv:8008/live/alle/alle/38206.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Horror HD"  group-title="Filme",VSV Horror HD
-http://zeroip.tv:8008/live/alle/alle/38252.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Sci-Fi HD"  group-title="Filme",VSV Sci-Fi HD
-http://zeroip.tv:8008/live/alle/alle/38394.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Bollywood HD"  group-title="Filme",VSV Bollywood HD
-http://zeroip.tv:8008/live/alle/alle/38400.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cartoons HD"  group-title="Filme",VSV Cartoons HD
-http://zeroip.tv:8008/live/alle/alle/37938.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Robert de Niro HD"  group-title="Filme",VSV Robert de Niro HD
-http://zeroip.tv:8008/live/alle/alle/48095.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Jason Statham HD"  group-title="Filme",VSV Jason Statham HD
-http://zeroip.tv:8008/live/alle/alle/48094.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET IUmor"  group-title="Filme",HD NET IUmor
-http://zeroip.tv:8008/live/alle/alle/33828.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Thriller"  group-title="Filme",HD NET Thriller
-http://zeroip.tv:8008/live/alle/alle/33821.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Sci-Fi"  group-title="Filme",HD NET Sci-Fi
-http://zeroip.tv:8008/live/alle/alle/33822.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Las Fierbinti"  group-title="Filme",HD NET Las Fierbinti
-http://zeroip.tv:8008/live/alle/alle/33827.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Kids"  group-title="Filme",HD NET Kids
-http://zeroip.tv:8008/live/alle/alle/33829.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Comedy"  group-title="Filme",HD NET Comedy
-http://zeroip.tv:8008/live/alle/alle/33825.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Jean Claude van Damme"  group-title="Filme",HD NET Jean Claude van Damme
-http://zeroip.tv:8008/live/alle/alle/53110.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Family Time"  group-title="Filme",Magura Media Family Time
-http://zeroip.tv:8008/live/alle/alle/48207.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Jackie Chan"  group-title="Filme",Magura Media Jackie Chan
-http://zeroip.tv:8008/live/alle/alle/48206.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Sylvester Stallone"  group-title="Filme",Magura Media Sylvester Stallone
-http://zeroip.tv:8008/live/alle/alle/38771.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media van Damme"  group-title="Filme",Magura Media van Damme
-http://zeroip.tv:8008/live/alle/alle/37417.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Keanu Reeves"  group-title="Filme",Magura Media Keanu Reeves
-http://zeroip.tv:8008/live/alle/alle/48287.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Bruce Willis"  group-title="Filme",Magura Media Bruce Willis
-http://zeroip.tv:8008/live/alle/alle/48289.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Supereroi"  group-title="Filme",Magura Media Supereroi
-http://zeroip.tv:8008/live/alle/alle/37420.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Kids"  group-title="Filme",Magura Media Kids
-http://zeroip.tv:8008/live/alle/alle/37410.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Istoric"  group-title="Filme",Magura Media Istoric
-http://zeroip.tv:8008/live/alle/alle/37411.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Comedy"  group-title="Filme",Magura Media Comedy
-http://zeroip.tv:8008/live/alle/alle/37416.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Cinema"  group-title="Filme",Magura Media Cinema
-http://zeroip.tv:8008/live/alle/alle/37413.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Action"  group-title="Filme",Magura Media Action
-http://zeroip.tv:8008/live/alle/alle/37409.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media 4K"  group-title="Filme",Magura Media 4K
-http://zeroip.tv:8008/live/alle/alle/37414.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Horror"  group-title="Filme",Magura Media Horror
-http://zeroip.tv:8008/live/alle/alle/38401.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Filme Religioase"  group-title="Filme",Magura Media Filme Religioase
-http://zeroip.tv:8008/live/alle/alle/48308.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Christmas"  group-title="Filme",AVB Media Christmas
-http://zeroip.tv:8008/live/alle/alle/38404.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Action FHD"  group-title="Filme",AVB Media Action FHD
-http://zeroip.tv:8008/live/alle/alle/37830.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Cartoons"  group-title="Filme",AVB Media Cartoons
-http://zeroip.tv:8008/live/alle/alle/38204.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Horror"  group-title="Filme",AVB Media Horror
-http://zeroip.tv:8008/live/alle/alle/38393.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Mynele"  group-title="Filme",AVB Media Mynele
-http://zeroip.tv:8008/live/alle/alle/37829.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://3.bp.blogspot.com/-OuQCRnOTCjY/XKWtzjGJnsI/AAAAAAAA23I/NiQO36FquMsY2cfT1dg7bwB8b0lcUCs-gCLcBGAs/s1600/TDC%2BLogo.png" tvg-name="TDC"  group-title="Filme",Timeless Drama Channel
-http://zeroip.tv:8008/live/alle/alle/50719.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://3.bp.blogspot.com/-OuQCRnOTCjY/XKWtzjGJnsI/AAAAAAAA23I/NiQO36FquMsY2cfT1dg7bwB8b0lcUCs-gCLcBGAs/s1600/TDC%2BLogo.png" tvg-name="TDC"  group-title="Filme",Timeless Drama Channel HD
-http://zeroip.tv:8008/live/alle/alle/50718.m3u8
+http://open.ddns.net:25461/laur/laur/8985
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/5225db0d3feff8b7ce6f3c48068644fd.png" tvg-name="TDC"  group-title="Filme",Timeless Drama Channel
+http://open.ddns.net:25461/laur/laur/9079
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/5225db0d3feff8b7ce6f3c48068644fd.png" tvg-name="TDC"  group-title="Filme",Timeless Drama Channel HD
+http://open.ddns.net:25461/laur/laur/8990
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
-http://zeroip.tv:8008/live/alle/alle/33831.m3u8
+http://open.ddns.net:25461/laur/laur/9070
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
-http://zeroip.tv:8008/live/alle/alle/34066.m3u8
+http://open.ddns.net:25461/laur/laur/8982
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7029e67f22d8a43ab8d1b3deb896249.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://zeroip.tv:8008/live/alle/alle/33840.m3u8
+http://open.ddns.net:25461/laur/laur/9087
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
-http://zeroip.tv:8008/live/alle/alle/33847.m3u8
+http://open.ddns.net:25461/laur/laur/9080
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
-http://zeroip.tv:8008/live/alle/alle/33846.m3u8
+http://open.ddns.net:25461/laur/laur/8981
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
-http://zeroip.tv:8008/live/alle/alle/33848.m3u8
+http://open.ddns.net:25461/laur/laur/9081
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://zeroip.tv:8008/live/alle/alle/33849.m3u8
+http://open.ddns.net:25461/laur/laur/9082
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
-http://zeroip.tv:8008/live/alle/alle/33850.m3u8
+http://open.ddns.net:25461/laur/laur/9083
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="CineMAX"  group-title="Filme",Cinemax
-http://zeroip.tv:8008/live/alle/alle/33843.m3u8
+http://open.ddns.net:25461/laur/laur/9088
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0874f230b6ba300544ba4f90689d9a72.png" tvg-name="CineMAX"  group-title="Filme",Cinemax HD
+http://open.ddns.net:25461/laur/laur/8988
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
-http://zeroip.tv:8008/live/alle/alle/33844.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva"  group-title="Filme",Diva Universal
-http://zeroip.tv:8008/live/alle/alle/33839.m3u8
+http://open.ddns.net:25461/laur/laur/9089
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva"  group-title="Filme",Diva
+http://open.ddns.net:25461/laur/laur/9086
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/db84fd722b09a6787fd09b7eb55ff6ab.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
-http://zeroip.tv:8008/live/alle/alle/33841.m3u8
+http://open.ddns.net:25461/laur/laur/17997
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/15a2e4765dd519171b8e1bf235dfbfc7.png" tvg-name="TV1000"  group-title="Filme",TV 1000
-http://zeroip.tv:8008/live/alle/alle/33838.m3u8
+http://open.ddns.net:25461/laur/laur/9073
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3654b34017508a963ccce2426e91e4cd.png" tvg-name="AMC"  group-title="Filme",AMC
-http://zeroip.tv:8008/live/alle/alle/33851.m3u8
+http://open.ddns.net:25461/laur/laur/9077
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png" tvg-name="TNT"  group-title="Filme",TNT
-http://zeroip.tv:8008/live/alle/alle/33852.m3u8
+http://open.ddns.net:25461/laur/laur/9076
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/da2ee3322bdd3034a556858ec706e70e.png" tvg-name="FILMCAFE"  group-title="Filme",Film Cafe
-http://zeroip.tv:8008/live/alle/alle/33858.m3u8
+http://open.ddns.net:25461/laur/laur/9075
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b818b960f3a29fbd8c315e0c2d58848d.png" tvg-name="Epic Drama"  group-title="Filme",Epic Drama
-http://zeroip.tv:8008/live/alle/alle/33859.m3u8
+http://open.ddns.net:25461/laur/laur/8987
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/cinemaraton_poster.png" tvg-name="Cinemaraton HD"  group-title="Filme",Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" tvg-name="Comedy Est"  group-title="Filme",Comedy Est
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1d93833ebdc10c6394d18105e9419915.png" tvg-name="Filmbox"  group-title="Filme",Film Box
-http://zeroip.tv:8008/live/alle/alle/33855.m3u8
+http://open.ddns.net:25461/laur/laur/9090
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/06dd1192d55ab64074f190469710e8b4.png" tvg-name="Filmbox Plus"  group-title="Filme",Film Box Plus
+http://open.ddns.net:25461/laur/laur/9092
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/06dd1192d55ab64074f190469710e8b4.png" tvg-name="Filmbox Family"  group-title="Filme",Film Box Family
+http://open.ddns.net:25461/laur/laur/9091
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/46d799bd756a044c4e38bcca61096fe9.png" tvg-name="FilmBox Extra HD"  group-title="Filme",Film Box Extra HD
-http://zeroip.tv:8008/live/alle/alle/33854.m3u8
+http://open.ddns.net:25461/laur/laur/8986
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b968071e468696313ea4dea83d62b77b.png" tvg-name="Filmbox Premium"  group-title="Filme",Film Box Premium
-http://zeroip.tv:8008/live/alle/alle/33856.m3u8
+http://open.ddns.net:25461/laur/laur/9093
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/78119e8e985dcd1890fd7ef82280a02b.png" tvg-name="PRO CINEMA"  group-title="Filme",Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2"  group-title="Filme",PRO 2
-http://zeroip.tv:8008/live/alle/alle/33774.m3u8
+http://open.ddns.net:25461/laur/laur/9074
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c.png" tvg-name="PRO GOLD"  group-title="Filme",PRO Gold
@@ -260,41 +186,41 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classics"  group-title="Filme",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bizbrasov.ro/wp-content/uploads/2018/10/Digi-4K.jpg?resize=640%2C352" tvg-name="Digi 4K"  group-title="Wild",Digi 4K
-http://zeroip.tv:8008/live/alle/alle/34585.m3u8
+http://open.ddns.net:25461/laur/laur/8979
 #EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia TV"  group-title="Wild",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
-http://zeroip.tv:8008/live/alle/alle/33884.m3u8
+http://open.ddns.net:25461/laur/laur/9112
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
-http://zeroip.tv:8008/live/alle/alle/33883.m3u8
+http://open.ddns.net:25461/laur/laur/9009
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
-http://zeroip.tv:8008/live/alle/alle/38416.m3u8
+http://open.ddns.net:25461/laur/laur/9115
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9919ad31897b9a2b7d6ebff2a5e23db.png" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
-http://zeroip.tv:8008/live/alle/alle/38417.m3u8
+http://open.ddns.net:25461/laur/laur/9010
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
-http://zeroip.tv:8008/live/alle/alle/33886.m3u8
+http://open.ddns.net:25461/laur/laur/9116
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/09f3e55d09d705c6b987fa46c2989d69.png" tvg-name="Nat Geo Wild HD"  group-title="Wild",Nat Geo Wild HD
-http://zeroip.tv:8008/live/alle/alle/33882.m3u8
+http://open.ddns.net:25461/laur/laur/9011
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
-http://zeroip.tv:8008/live/alle/alle/33879.m3u8
+http://open.ddns.net:25461/laur/laur/9007
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
-http://zeroip.tv:8008/live/alle/alle/34078.m3u8
+http://open.ddns.net:25461/laur/laur/9111
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
-http://zeroip.tv:8008/live/alle/alle/34078.m3u8
+http://open.ddns.net:25461/laur/laur/9111
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID Investigation Discovery"  group-title="Wild",Discovery ID
-http://zeroip.tv:8008/live/alle/alle/33881.m3u8
+http://open.ddns.net:25461/laur/laur/9124
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="ID Investigation Discovery HD"  group-title="Wild",Discovery ID HD
-http://zeroip.tv:8008/live/alle/alle/38427.m3u8
+http://open.ddns.net:25461/laur/laur/9124
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra
-http://zeroip.tv:8008/live/alle/alle/33875.m3u8
+http://open.ddns.net:25461/laur/laur/9110
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra HD
-http://zeroip.tv:8008/live/alle/alle/33875.m3u8
+http://open.ddns.net:25461/laur/laur/9110
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Wild",Discovery ShowCase HD
-http://zeroip.tv:8008/live/alle/alle/33878.m3u8
+http://open.ddns.net:25461/laur/laur/9008
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Wild",Crime Investigation
-http://zeroip.tv:8008/live/alle/alle/33880.m3u8
+http://open.ddns.net:25461/laur/laur/9122
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
-http://zeroip.tv:8008/live/alle/alle/33900.m3u8
+http://open.ddns.net:25461/laur/laur/9114
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
 http://zeroip.tv:8008/live/alle/alle/33899.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
