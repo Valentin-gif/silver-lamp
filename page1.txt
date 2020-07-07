@@ -106,167 +106,39 @@ http://zeroip.tv:8008/emil_suciu/emil_suciu/33816
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="LOOK PLUS HD"  group-title="Sport",Look Plus HD
 http://zeroip.tv:8008/emil_suciu/emil_suciu/33815
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
-http://open.ddns.net:25461/laur/laur/9109
-#EXTINF:0, tvg-id="" tvg-logo="https://lirp-cdn.multiscreensite.com/ca98cc15/dms3rep/multi/opt/MEGATV-640w.jpg" tvg-name=""  group-title="Filme Provideri",Mega Joke Battle
-http://open.ddns.net:25461/laur/laur/17961
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Premiere
-http://open.ddns.net:25461/laur/laur/13603
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Bollywood
-http://open.ddns.net:25461/laur/laur/17953
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Twist Action
-http://open.ddns.net:25461/laur/laur/13618
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Reborn Action
-http://open.ddns.net:25461/laur/laur/13619
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Strong Action
-http://open.ddns.net:25461/laur/laur/13612
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Reloaded Action
-http://open.ddns.net:25461/laur/laur/13616
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Comedy
-http://open.ddns.net:25461/laur/laur/11197
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Comedie
-http://open.ddns.net:25461/laur/laur/13621
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Aventura
-http://open.ddns.net:25461/laur/laur/11199
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Twist Aventura
-http://open.ddns.net:25461/laur/laur/13622
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Reborn Aventura
-http://open.ddns.net:25461/laur/laur/13623
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Thriller
-http://open.ddns.net:25461/laur/laur/11196
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Twist Thriller
-http://open.ddns.net:25461/laur/laur/13620
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Reloaded Thriller
-http://open.ddns.net:25461/laur/laur/13625
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Science-Fiction
-http://open.ddns.net:25461/laur/laur/13627
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Western
-http://open.ddns.net:25461/laur/laur/13605
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Fantasy
-http://open.ddns.net:25461/laur/laur/14524
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Horror
-http://open.ddns.net:25461/laur/laur/11198
-#EXTINF:0, tvg-id="" tvg-logo="https://opentvromania.ro/_files/200000042-3cf753cf77/450/logo_-7.png" tvg-name=""  group-title="Filme Provideri",Open TV Karate
-http://open.ddns.net:25461/laur/laur/13626
-#EXTINF:0, tvg-id="" tvg-logo="https://www.anume.ro/images/logonou.png" tvg-name=""  group-title="Filme Provideri",Anume TV Super Eroi
-http://open.ddns.net:25461/laur/laur/14451
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33916
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Action
-http://open.ddns.net:25461/laur/laur/13384
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33820
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Premiere
-http://open.ddns.net:25461/laur/laur/13383
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33819
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Comedy
-http://open.ddns.net:25461/laur/laur/13386
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33825
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Sci-Fi
-http://open.ddns.net:25461/laur/laur/13387
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33822
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Horror
-http://open.ddns.net:25461/laur/laur/13388
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33823
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Thriller
-http://open.ddns.net:25461/laur/laur/13385
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33821
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Bollywood
-http://open.ddns.net:25461/laur/laur/13389
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33826
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net iUmor
-http://open.ddns.net:25461/laur/laur/13391
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",IptvBox Gangster
-http://open.ddns.net:25461/laur/laur/17982
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",IptvBox Aventura
-http://open.ddns.net:25461/laur/laur/17983
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",IptvBox Western
-http://open.ddns.net:25461/laur/laur/17986
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",IptvBox Romantic
-http://open.ddns.net:25461/laur/laur/17988
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",IptvBox Box-Office
-http://open.ddns.net:25461/laur/laur/17992
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Filme 2020
-http://open.ddns.net:25461/laur/laur/14525
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Trilogy
-http://open.ddns.net:25461/laur/laur/10638
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Filme de colectie
-http://open.ddns.net:25461/laur/laur/10647
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Actiune
-http://open.ddns.net:25461/laur/laur/14514
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Horror
-http://open.ddns.net:25461/laur/laur/10657
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV BoxOffice
-http://open.ddns.net:25461/laur/laur/14519
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Mistery
-http://open.ddns.net:25461/laur/laur/14520
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Western
-http://open.ddns.net:25461/laur/laur/14521
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/gSzb7Mh/luc-tv.jpg" tvg-name=""  group-title="Filme Provideri",Luc TV Arte Martiale
-http://open.ddns.net:25461/laur/laur/14523
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/GMWPfWf/skynet.png" tvg-name=""  group-title="Filme Provideri",Skynet Actiune
-http://open.ddns.net:25461/laur/laur/10655
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/GMWPfWf/skynet.png" tvg-name=""  group-title="Filme Provideri",Skynet Aventura
-http://open.ddns.net:25461/laur/laur/10656
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/GMWPfWf/skynet.png" tvg-name=""  group-title="Filme Provideri",Skynet Arte Martiale
-http://open.ddns.net:25461/laur/laur/10658
-#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/GMWPfWf/skynet.png" tvg-name=""  group-title="Filme Provideri",Skynet Bollywood
-http://open.ddns.net:25461/laur/laur/10660
-#EXTINF:0, tvg-id="" tvg-logo="https://startv.ro/wp-content/uploads/2017/08/logo.png" tvg-name=""  group-title="Filme Provideri",Star TV Action
-http://open.ddns.net:25461/laur/laur/10642
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv New releases
-http://open.ddns.net:25461/laur/laur/17933
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Movies 2020
-http://open.ddns.net:25461/laur/laur/17934
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action
-http://open.ddns.net:25461/laur/laur/17949
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action Two
-http://open.ddns.net:25461/laur/laur/17950
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action Three
-http://open.ddns.net:25461/laur/laur/17941
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action Four
-http://open.ddns.net:25461/laur/laur/17939
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Action Five
-http://open.ddns.net:25461/laur/laur/17940
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Comedy
-http://open.ddns.net:25461/laur/laur/17942
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Comedy Two
-http://open.ddns.net:25461/laur/laur/17943
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Horror
-http://open.ddns.net:25461/laur/laur/17944
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Horror Two
-http://open.ddns.net:25461/laur/laur/17945
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Adventure
-http://open.ddns.net:25461/laur/laur/17946
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Adventure Two
-http://open.ddns.net:25461/laur/laur/17947
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Thriller
-http://open.ddns.net:25461/laur/laur/17948
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Thriller Two
-http://open.ddns.net:25461/laur/laur/17951
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ZokkoTv Science Fiction
-http://open.ddns.net:25461/laur/laur/17952
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Thriller
-http://open.ddns.net:25461/laur/laur/16206
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Aventura
-http://open.ddns.net:25461/laur/laur/16207
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Actiune
-http://open.ddns.net:25461/laur/laur/16208
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Comedie
-http://open.ddns.net:25461/laur/laur/16209
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech ScienceFiction
-http://open.ddns.net:25461/laur/laur/16210
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Drama
-http://open.ddns.net:25461/laur/laur/16211
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Crime
-http://open.ddns.net:25461/laur/laur/16212
-#EXTINF:0, tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2019/09/logo_iptv_romania_ro-hd.png" tvg-name=""  group-title="Filme Provideri",ProxTech Premiere
-http://open.ddns.net:25461/laur/laur/16213
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33828
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
-http://open.ddns.net:25461/laur/laur/9067
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33833
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
-http://open.ddns.net:25461/laur/laur/8983
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33832
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
-http://open.ddns.net:25461/laur/laur/9068
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33835
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/12713c6ff264a3ac58c707c7b2a4bbcf.png" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
-http://open.ddns.net:25461/laur/laur/8984
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33834
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
-http://open.ddns.net:25461/laur/laur/9069
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33837
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
-http://open.ddns.net:25461/laur/laur/8985
+http://zeroip.tv:8008/emil_suciu/emil_suciu/33836
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/5225db0d3feff8b7ce6f3c48068644fd.png" tvg-name="TDC"  group-title="Filme",Timeless Drama Channel
-http://open.ddns.net:25461/laur/laur/9079
+http://zeroip.tv:8008/emil_suciu/emil_suciu/56165
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/5225db0d3feff8b7ce6f3c48068644fd.png" tvg-name="TDC"  group-title="Filme",Timeless Drama Channel HD
-http://open.ddns.net:25461/laur/laur/8990
+http://zeroip.tv:8008/emil_suciu/emil_suciu/56164
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
 http://open.ddns.net:25461/laur/laur/9070
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
