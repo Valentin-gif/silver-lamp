@@ -107,6 +107,60 @@ http://zeroip.tv:8008/emil_suciu/emil_suciu/33816
 http://zeroip.tv:8008/emil_suciu/emil_suciu/33815
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
 http://zeroip.tv:8008/emil_suciu/emil_suciu/33916
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Premiere FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/53785
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Cinema FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38253
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Collection FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/51125
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Marvel Movies FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/51126
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Action FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38769
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Comedy FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38206
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Horror FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38252
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Horror FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38394
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Sci-Fi FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38394
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV History FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/53821
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Filme Provideri",VSV Bollywood FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38400
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/MkRp17j/premium.jpg" tvg-name=""  group-title="Filme Provideri",Premium FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/53097
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/MkRp17j/premium.jpg" tvg-name=""  group-title="Filme Provideri",Premium Scifi
+http://zeroip.tv:8008/emil_suciu/emil_suciu/53104
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/MkRp17j/premium.jpg" tvg-name=""  group-title="Filme Provideri",Premium Horror
+http://zeroip.tv:8008/emil_suciu/emil_suciu/53105
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/MkRp17j/premium.jpg" tvg-name=""  group-title="Filme Provideri",Premium Comedy
+http://zeroip.tv:8008/emil_suciu/emil_suciu/53111
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/MkRp17j/premium.jpg" tvg-name=""  group-title="Filme Provideri",Premium Drama
+http://zeroip.tv:8008/emil_suciu/emil_suciu/53738
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/9pp6bBZ/avb.jpg" tvg-name=""  group-title="Filme Provideri",AVB Action
+http://zeroip.tv:8008/emil_suciu/emil_suciu/37830
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/9pp6bBZ/avb.jpg" tvg-name=""  group-title="Filme Provideri",AVB Horror
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38393
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Filme Provideri",Magura Media Filme Romanesti
+http://zeroip.tv:8008/emil_suciu/emil_suciu/48425
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Filme Provideri",Magura Media Family Time
+http://zeroip.tv:8008/emil_suciu/emil_suciu/48207
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Filme Provideri",Magura Media Horror
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38401
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Filme Provideri",Magura Media Ro
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38402
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Filme Provideri",Magura Media Action
+http://zeroip.tv:8008/emil_suciu/emil_suciu/37409
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Filme Provideri",Magura Media Cinema
+http://zeroip.tv:8008/emil_suciu/emil_suciu/37413
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Filme Provideri",Magura Media Kung Fu
+http://zeroip.tv:8008/emil_suciu/emil_suciu/37415
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Filme Provideri",Magura Media Comedy
+http://zeroip.tv:8008/emil_suciu/emil_suciu/37416
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Filme Provideri",Magura Media Supereroi
+http://zeroip.tv:8008/emil_suciu/emil_suciu/37420
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Action
 http://zeroip.tv:8008/emil_suciu/emil_suciu/33820
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Filme Provideri",HD Net Premiere
@@ -327,6 +381,22 @@ http://zeroip.tv:8008/emil_suciu/emil_suciu/33829
 http://zeroip.tv:8008/emil_suciu/emil_suciu/33863
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang
 http://zeroip.tv:8008/emil_suciu/emil_suciu/33865
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Desene",VSV BabyKids FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/55182
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Desene",VSV Cartoons FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/37938
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/MkRp17j/premium.jpg" tvg-name=""  group-title="Desene",Premium Masha si Ursul
+http://zeroip.tv:8008/emil_suciu/emil_suciu/53742
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/9pp6bBZ/avb.jpg" tvg-name=""  group-title="Desene",AVB Cartoons
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38204
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Desene",Magura Media Kids
+http://zeroip.tv:8008/emil_suciu/emil_suciu/37410
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Desene",Prime Kids
+http://zeroip.tv:8008/emil_suciu/emil_suciu/60598
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Desene",Prime Gasca Zurli
+http://zeroip.tv:8008/emil_suciu/emil_suciu/60595
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Desene",Prime Kids New
+http://zeroip.tv:8008/emil_suciu/emil_suciu/60588
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9290990e051fb007778dcf2101fc24fe.png" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
 http://zeroip.tv:8008/emil_suciu/emil_suciu/33904
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f19b88e6cb8cb067565bb3880b2fb3e1.png" tvg-name="Nick. Jr"  group-title="Desene",Nickelodeon
@@ -349,6 +419,16 @@ http://zeroip.tv:8008/emil_suciu/emil_suciu/33907
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca0e1766b1b8e6f4c78419eeb24ef5cb.png" tvg-name="U TV HD"  group-title="Muzica",U Tv
 http://zeroip.tv:8008/emil_suciu/emil_suciu/33911
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Muzica",VSV Musicmix FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/54199
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Muzica",VSV PopularMix FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/54200
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Muzica",VSV ManeleMix FHD
+http://zeroip.tv:8008/emil_suciu/emil_suciu/54201
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Muzica",Magura Media Muzica de ascultare
+http://zeroip.tv:8008/emil_suciu/emil_suciu/48426
+#EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Muzica",Magura Media Manele
+http://zeroip.tv:8008/emil_suciu/emil_suciu/38403
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fd6416a1afe3936f70c468f444bd9353.png" tvg-name="MTV Romania"  group-title="Muzica",MTV Romania
 http://zeroip.tv:8008/emil_suciu/emil_suciu/56174
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/96ba24a23dc3d5bd1c00553df6c6560a.png" tvg-name="MTV Dance"  group-title="Muzica",MTV Dance
