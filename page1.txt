@@ -353,19 +353,19 @@ http://v1ip.best:8008/emil_suciu/emil_suciu/33768
 http://v1ip.best:8008/emil_suciu/emil_suciu/33776
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
 http://v1ip.best:8008/emil_suciu/emil_suciu/33775
-#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cookplay"  group-title="Diverse",Cook and Play
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS.png" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/fsBW8DJnT3KdTKAcTVxS.png" tvg-name="Antena Comedy"  group-title="Diverse",Antena Comedy
+#EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/fsBW8DJnT3KdTKAcTVxS.png" tvg-name="Comedy Play"  group-title="Diverse",Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://new.6tv.ro/wp-content/uploads/2017/08/6tv_logo.png" tvg-name="6 TV"  group-title="Diverse",6 TV
+#EXTINF:0, tvg-id="" tvg-logo="https://new.6tv.ro/wp-content/uploads/2017/08/6tv_logo.png" tvg-name="6TV"  group-title="Diverse",6 TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/859c1d753b0d0ed6d83ed0b03cdc2c23.png" tvg-name="TVR 3"  group-title="Diverse",TVR 3
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
 #EXTINF:0, tvg-id="raz15" tvg-logo="https://iptv.live/images/logo/channel/smalls/58301a625c19be6871c1f3f992e534c4.png" tvg-name="TVR International"  group-title="Diverse",TVR International
 https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
-#EXTINF:0, tvg-id="raz47" tvg-logo="https://iptv.live/images/logo/channel/smalls/d277e55bff631b0848374dd0858df0aa.png" tvg-name="PRO TV International"  group-title="Diverse",PRO TV International
+#EXTINF:0, tvg-id="raz47" tvg-logo="https://iptv.live/images/logo/channel/smalls/d277e55bff631b0848374dd0858df0aa.png" tvg-name="PRO TV INTERNATIONAL"  group-title="Diverse",PRO TV International
 http://78.109.108.62:2001/protv
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c05054b76b74ce6692c6bfe735c734aa.png" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
@@ -377,9 +377,9 @@ http://v1ip.best:8008/emil_suciu/emil_suciu/33862
 http://v1ip.best:8008/emil_suciu/emil_suciu/33861
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name=""  group-title="Desene",HD Net Kids
 http://v1ip.best:8008/emil_suciu/emil_suciu/33829
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7085e6c3f229860380df2e1bea83c4a.png" tvg-name="Minimax"  group-title="Desene",Minimax
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7085e6c3f229860380df2e1bea83c4a.png" tvg-name="MiniMax"  group-title="Desene",Minimax
 http://v1ip.best:8008/emil_suciu/emil_suciu/33863
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang"  group-title="Desene",Boomerang
 http://v1ip.best:8008/emil_suciu/emil_suciu/33865
 #EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/RCLkNZ7/VSV.png" tvg-name=""  group-title="Desene",VSV BabyKids FHD
 http://v1ip.best:8008/emil_suciu/emil_suciu/55182
@@ -397,15 +397,15 @@ http://v1ip.best:8008/emil_suciu/emil_suciu/60598
 http://v1ip.best:8008/emil_suciu/emil_suciu/60595
 #EXTINF:0, tvg-id="" tvg-logo="https://i.ibb.co/5kNt83F/magura.png" tvg-name=""  group-title="Desene",Prime Kids New
 http://v1ip.best:8008/emil_suciu/emil_suciu/60588
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9290990e051fb007778dcf2101fc24fe.png" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9290990e051fb007778dcf2101fc24fe.png" tvg-name="DaVinci Learning"  group-title="Desene",Da Vinci Learning
 http://v1ip.best:8008/emil_suciu/emil_suciu/33904
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f19b88e6cb8cb067565bb3880b2fb3e1.png" tvg-name="Nick. Jr"  group-title="Desene",Nickelodeon
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f19b88e6cb8cb067565bb3880b2fb3e1.png" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon
 http://v1ip.best:8008/emil_suciu/emil_suciu/36719
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/913c4858c66af34fc5575fcb46f3fecb.png" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/913c4858c66af34fc5575fcb46f3fecb.png" tvg-name="Nick Jr"  group-title="Desene",Nick. Jr
 http://v1ip.best:8008/emil_suciu/emil_suciu/33860
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c5a9a9b092e065b4df87d3943593685.png" tvg-name="NickToons"  group-title="Desene",NickToons
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c5a9a9b092e065b4df87d3943593685.png" tvg-name="Nicktoons"  group-title="Desene",NickToons
 http://v1ip.best:8008/emil_suciu/emil_suciu/33866
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="Jimjam"  group-title="Desene",JimJam
 http://v1ip.best:8008/emil_suciu/emil_suciu/38428
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="Gurinel TV"  group-title="Desene",Gurinel TV
 http://open.ddns.net:25461/laur/laur/9170
