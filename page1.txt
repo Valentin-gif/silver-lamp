@@ -353,7 +353,7 @@ http://v1ip.best:8008/emil_suciu/emil_suciu/33768
 http://v1ip.best:8008/emil_suciu/emil_suciu/33776
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
 http://v1ip.best:8008/emil_suciu/emil_suciu/33775
-#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cookplay"  group-title="Diverse",Cook and Play
+#EXTINF:0, tvg-id="cookplay" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cookplay"  group-title="Diverse",Cook and Play
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS.png" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
