@@ -36,23 +36,25 @@ http://nadxxy.com:8008/live/alex_dragomir/andrei2019/33783.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea plus"  group-title="Stiri",Realitatea Plus
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="România TV"  group-title="Stiri",Romania TV
-http://nadxxy.com:8008/emil_suciu/emil_suciu/33779
+http://nadxxy.com:8008/live/alex_dragomir/andrei2019/33779.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/antena-3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
-http://nadxxy.com:8008/emil_suciu/emil_suciu/33767
+http://nadxxy.com:8008/live/alex_dragomir/andrei2019/33767.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2016/11/28/antena-1-hd-si-antena-3-hd-de-astazi-in-casele-dumneavoastra-419141.jpg" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
-http://nadxxy.com:8008/emil_suciu/emil_suciu/33766
+http://nadxxy.com:8008/live/alex_dragomir/andrei2019/33766.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
-http://nadxxy.com:8008/emil_suciu/emil_suciu/34523
+http://nadxxy.com:8008/live/alex_dragomir/andrei2019/34523.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit.ro"  group-title="Stiri",Profit TV
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/Agro_TVhd.png" tvg-name="Agro TV"  group-title="Stiri",Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a98d664fb0f2909992d398d5c843e468.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
-http://nadxxy.com:8008/emil_suciu/emil_suciu/56139
+http://nadxxy.com:8008/live/alex_dragomir/andrei2019/56139.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport1
-http://nadxxy.com:8008/emil_suciu/emil_suciu/33798
+http://nadxxy.com:8008/live/alex_dragomir/andrei2019/33797.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
-http://nadxxy.com:8008/emil_suciu/emil_suciu/33796
+http://nadxxy.com:8008/live/alex_dragomir/andrei2019/33796.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 4K
+http://nadxxy.com:8008/live/alex_dragomir/andrei2019/62775.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
 http://nadxxy.com:8008/emil_suciu/emil_suciu/33800
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
